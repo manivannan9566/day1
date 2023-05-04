@@ -33,5 +33,6 @@ int n = sc.nextInt();
 System.out.println();  
 //function calling  
 printPattern(n);  
+ADL-vadapalani a-aws d-devops l-linux
 }  
 }  
